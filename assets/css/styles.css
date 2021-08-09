@@ -767,7 +767,6 @@ body.dark-theme{
         margin-right: var(--mb-1);
     }
 
-
     .nav__menu{
         padding: 2rem .25rem 4rem;
     }
@@ -819,7 +818,6 @@ body.dark-theme{
     /* insert contact container later */
     
     .portfolio__content,
-    .skills__container
     .footer__container,
     .portfolio__content{
         grid-template-columns: repeat(2, 1fr);
