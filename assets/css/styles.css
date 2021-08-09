@@ -819,7 +819,9 @@ body.dark-theme{
     /* insert contact container later */
     
     .portfolio__content,
-    .footer__container{
+    .skills__container
+    .footer__container,
+    .portfolio__content{
         grid-template-columns: repeat(2, 1fr);
     }
 
@@ -936,9 +938,9 @@ body.dark-theme{
         grid-template-columns: repeat(3, 1fr);
     }
 
-    .footer__bg{
+    /* .footer__bg{
         padding: 3rem 0 3.5rem;
-    }
+    } */
 
     .footer__links{
         flex-direction: row;
